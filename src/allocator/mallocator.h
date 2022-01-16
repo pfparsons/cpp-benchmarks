@@ -1,0 +1,6 @@
+#ifndef CPP_BENCHMARKS_MALLOCATOR_H
+#define CPP_BENCHMARKS_MALLOCATOR_H
+
+#include "memory_block.h"
+
+#endif //CPP_BENCHMARKS_MALLOCATOR_H

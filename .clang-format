@@ -1,0 +1,10 @@
+---
+BasedOnStyle: LLVM
+ColumnLimit: 90
+DerivePointerAlignment: false
+PointerAlignment: Left
+IncludeBlocks: Preserve
+SpacesInConditionalStatement: true
+SpacesInContainerLiterals: true
+SpacesInParentheses: true
+AlwaysBreakTemplateDeclarations: Yes

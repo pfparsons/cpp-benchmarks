@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="RISC-V Unmatched 1 (91b8eebe-f52e-4e14-931e-0e50dc356c72)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.sZGJS7BVr7" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-gcc-mp-11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-rasputin_gcc_11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-rasputin_gcc_11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-risc-v-unmatched-1" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Rasputin_GCC_11 (38c28114-f7e5-4220-a8df-2215f66f489d)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.TsJ6maEw9M" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-rasputin_gcc_11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-rasputin_gcc_11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-risc-v-unmatched-1" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

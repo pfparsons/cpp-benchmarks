@@ -1,0 +1,14 @@
+Checks: 'clang-diagnostic-*,clang-analyzer-*,-clang-analyzer-alpha*,google-*,modernize-*,-modernize-use-trailing-return-type'
+# produce HeaderFilterRegex from cpp/build-support/lint_exclusions.txt with:
+# echo -n '^('; sed -e 's/*/\.*/g' cpp/build-support/lint_exclusions.txt | tr '\n' '|'; echo ')$'
+HeaderFilterRegex: '^(.*codegen.*|.*_generated.*|.*windows_compatibility.h|.*pyarrow_api.h|.*pyarrow_lib.h|.*python/config.h|.*python/platform.h|.*thirdparty/ae/.*|.*vendored/.*|.*RcppExports.cpp.*|)$'
+AnalyzeTemporaryDtors: true
+CheckOptions:
+  - key:             google-readability-braces-around-statements.ShortStatementLines
+    value:           '1'
+  - key:             google-readability-function-size.StatementThreshold
+    value:           '800'
+  - key:             google-readability-namespace-comments.ShortNamespaceLines
+    value:           '10'
+  - key:             google-readability-namespace-comments.SpacesBeforeComments
+    value:           '2'

@@ -3,8 +3,14 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/Catch2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/GoogleBenchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/debug_assert" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/fmt" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/google/benchmark" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/thirdparty/spdlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tl-expected" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tl-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tl-ranges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/type_safe" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,1 @@
+set(CMAKE_CXX_FLAGS "-Wno-psabi -Wno-deprecated-declarations")

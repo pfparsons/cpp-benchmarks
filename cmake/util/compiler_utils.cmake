@@ -1,0 +1,8 @@
+function(display_compiler_info)
+    message("CXX Compiler:  ${CMAKE_CXX_COMPILER_ID}")
+    message("   - Version:  ${CMAKE_CXX_COMPILER_VERSION}")
+    message("   - Path:     ${CMAKE_CXX_COMPILER} ")
+#    message("    - ${CMAKE_CXX_COMPILER_ARCHITECTURE_ID}")
+#    message("    - ${CMAKE_CXX_COMPILER_ABI}")
+#    message("    - ${CMAKE_CXX_COMPILE_FEATURES}")
+endfunction()

@@ -10,3 +10,18 @@
 [submodule "thirdparty/GoogleBenchmak"]
 	path = thirdparty/GoogleBenchmark
 	url = https://github.com/google/benchmark.git
+[submodule "thirdparty/debug_assert"]
+	path = thirdparty/debug_assert
+	url = https://github.com/foonathan/debug_assert.git
+[submodule "thirdparty/tl-expected"]
+	path = thirdparty/tl-expected
+	url = https://github.com/TartanLlama/expected.git
+[submodule "thirdparty/tl-generator"]
+	path = thirdparty/tl-generator
+	url = https://github.com/TartanLlama/generator.git
+[submodule "thirdparty/tl-ranges"]
+	path = thirdparty/tl-ranges
+	url = https://github.com/TartanLlama/ranges.git
+[submodule "thirdparty/type_safe"]
+	path = thirdparty/type_safe
+	url = https://github.com/foonathan/type_safe.git

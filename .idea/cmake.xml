@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="false" CONFIG_NAME="Debug" BUILD_OPTIONS="-j 8" />
+      <configuration PROFILE_NAME="Release-Rasputin_GCC_11" ENABLED="false" CONFIG_NAME="Release" TOOLCHAIN_NAME="Rasputin_GCC_11" GENERATION_OPTIONS="-G Ninja" />
+      <configuration PROFILE_NAME="Debug-Rasputin_GCC_11" ENABLED="false" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Rasputin_GCC_11" GENERATION_OPTIONS="-G Ninja" />
+    </configurations>
+  </component>
+</project>
