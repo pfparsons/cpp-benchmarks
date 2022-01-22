@@ -21,7 +21,7 @@ public:
 
   }
 
-  
+
 private:
   uintptr_t* _abs_start = nullptr;
   uintptr_t* _start = _abs_start;
